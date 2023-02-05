@@ -1,3 +1,12 @@
 [submodule "CryptoMarketData"]
 	path = CryptoMarketData
 	url = https://github.com/patnamvamsi/CryptoMarketData.git
+[submodule "CryptoTAEngine"]
+	path = CryptoTAEngine
+	url = https://github.com/patnamvamsi/CryptoTAEngine.git
+[submodule "CryptoWebServer"]
+	path = CryptoWebServer
+	url = https://github.com/patnamvamsi/CryptoWebServer.git
+[submodule "CryptoSentimentAnalysis"]
+	path = CryptoSentimentAnalysis
+	url = https://github.com/patnamvamsi/CryptoSentimentAnalysis.git
