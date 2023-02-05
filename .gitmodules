@@ -1,0 +1,3 @@
+[submodule "CryptoMarketData"]
+	path = CryptoMarketData
+	url = https://github.com/patnamvamsi/CryptoMarketData.git
