@@ -1,6 +1,22 @@
 # Vritti-Trading-Platform
 A Crypto trading bot leveraging NLP\ML
 
+**The Vision:** What outcome do we want to achieve?
+
++ A platform to quickly back-test strategies on historical data.
+  + Starting with Crypto, Later expanding  to equity\FX\derivatives products
+  + All Technical Analysis Patterns with provision to tune parameters.
+  + Ability to define custom strategies easily or extend the existing code base.
+  + Analyze price movement patterns across various assets to derive co-relation, to be used as input in the strategies. 
++ Leveraging NLP, using data from social media data such as Twitter, Reddit, etc.
+  + Analyze social media and derive sentiment, Infuse the sentiment, (+ve / -ve) to influence trading strategies
++ Ability to backtest social media\news\influencers on historical data to find patterns that actually co-relate with price movements
++ Ability to paper trade and live trade based on backtested strategies
++ Extend the framework to incorporate deep reinforced learning. 
+
+Other use cases:
++ Portfolio management 
++ Learning tool for day traders to hone their skills
 
 
 The Architecture
