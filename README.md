@@ -34,8 +34,8 @@ The proposed services:
 3. **NLP\\sentiment analytics Service**
 4. **Algo\\TA\\ML service**
     
-
- Interconnectivity among these services is via REST API calls and Kafka for higher throughput data transfer.
+![alt text](https://github.com/patnamvamsi/Vritti-Trading-Platform/blob/main/CryptoArchitecture.drawio.png)
+Interconnectivity among these services is via REST API calls and Kafka for higher throughput data transfer.
 
 **1.  MarketData Service:**
     
