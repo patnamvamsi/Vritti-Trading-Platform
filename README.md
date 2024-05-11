@@ -36,7 +36,7 @@ The proposed services:
     
 ![alt text](https://github.com/patnamvamsi/Vritti-Trading-Platform/blob/main/CryptoArchitecture.drawio.png)
 Interconnectivity among these services is via REST API calls and Kafka for higher throughput data transfer.
-
+![alt text](https://github.com/patnamvamsi/Vritti-Trading-Platform/blob/main/kafka.drawio.png)
 **1.  MarketData Service:**
     
 This service is responsible for gathering historical and streaming quote and trade data from different sources. It organizes the data in databases for efficient retrieval for other services use. This service can have multiple instances to handle the capture of streaming data parallely, but writing to the same underlying DBs.
